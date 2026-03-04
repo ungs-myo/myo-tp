@@ -1,5 +1,7 @@
 # Modelado y Optimización - Trabajo Práctico
 
+Trabajo práctico universitario que aborda problemas de optimización combinatoria aplicados a la gestión de archivos en una empresa de datos. Se modela y resuelve el problema de empaquetado en discos (*Bin Packing*) y sus variantes —incluyendo maximización de importancia, cobertura de conjuntos (*Set Cover*) y generación de columnas— utilizando Programación Lineal Entera (ILP) con el solver SCIP a través de la biblioteca PySCIPOpt, modelado en ZIMPL y heurísticas como la de Dantzig.
+
 ## Descripción General
 
 Este trabajo práctico aplica conceptos de modelado y optimización mediante técnicas de programación lineal entera. El proyecto aborda una serie de problemas relacionados con la gestión de archivos en una empresa de datos, diseñando soluciones eficientes que optimizan el uso de recursos como el almacenamiento en discos y la priorización de datos según su importancia.
